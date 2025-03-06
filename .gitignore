@@ -1,0 +1,7 @@
+
+*.pyc
+*.pdf
+.env
+vectorizing/ex.json
+vectorizing/faiss_index.idx
+vectorizing/ap_calc_ab.json
